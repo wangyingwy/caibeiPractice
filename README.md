@@ -1,1 +1,3 @@
 # caibeiPractice
+这是一个练习页面
+sidebar用两种方法写
